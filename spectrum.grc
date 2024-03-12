@@ -78,39 +78,6 @@ blocks:
     coordinate: [272, 64.0]
     rotation: 0
     state: enabled
-- name: audio_sink_0
-  id: audio_sink
-  parameters:
-    affinity: ''
-    alias: ''
-    comment: ''
-    device_name: ''
-    num_inputs: '1'
-    ok_to_block: 'True'
-    samp_rate: samp_rate
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [616, 128.0]
-    rotation: 0
-    state: enabled
-- name: blocks_complex_to_float_0
-  id: blocks_complex_to_float
-  parameters:
-    affinity: ''
-    alias: ''
-    comment: ''
-    maxoutbuf: '0'
-    minoutbuf: '0'
-    vlen: '1'
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [432, 136.0]
-    rotation: 0
-    state: enabled
 - name: iio_pluto_source_0
   id: iio_pluto_source
   parameters:
@@ -286,8 +253,6 @@ blocks:
     state: enabled
 
 connections:
-- [blocks_complex_to_float_0, '0', audio_sink_0, '0']
-- [iio_pluto_source_0, '0', blocks_complex_to_float_0, '0']
 - [iio_pluto_source_0, '0', qtgui_freq_sink_x_0, '0']
 - [iio_pluto_source_0, '0', qtgui_waterfall_sink_x_0, '0']
 
