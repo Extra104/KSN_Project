@@ -65,8 +65,12 @@ Nach Abschluss der Installation können Sie überprüfen, ob der Treiber ordnung
    ### Installation von GNU - Radio
 Um GNU Radio zu installieren, besuchen Sie die [offizielle Website](https://wiki.gnuradio.org/index.php/InstallingGR) und laden Sie die passende Installationsdatei für Ihr Betriebssystem herunter. Führen Sie dann das Installationsprogramm aus und folgen Sie den Anweisungen. Stellen Sie sicher, dass alle erforderlichen Abhängigkeiten installiert sind. Öffnen Sie nach der Installation GNU Radio und konfigurieren Sie die Einstellungen nach Ihren Vorlieben. Überprüfen Sie abschließend, ob die Software ordnungsgemäß funktioniert, indem Sie eine Beispielanwendung ausführen oder ein neues Projekt erstellen und testen.
 
-## Software
+  ### Software
 Hier könnten Details zur verwendeten Software aufgeführt werden.
 
-## Resümee
-Hier wird das Projekt zusammengefasst und ein Ausblick auf mögliche zukünftige Entwicklungen gegeben.
+  ### Resümee
+Dieses Projekt bietet eine breite Palette an Lernmöglichkeiten. Es können grundlegende Kenntnisse in den Bereichen Software und Hardware erlangt werden.
+Der Schwerpunkt ist dabei auf der Frequenzanalyse und Signalverarbeitung. 
+Zudem können die Fähigkeiten durch Funkanwendungen und Signalverarbeitungsblöcke in GNU Radio erlangt werden. 
+
+Zusammenfassend lässt sich sagen, dass es ein spannendes Projekt ist. Welches durch seine gute Veranschaulichung heraussticht.  
