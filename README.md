@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text in der Mitte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PlutoSDR für Frequenzanalyse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
 
 # Inhaltsverzeichnis
 
@@ -17,15 +17,30 @@
 ---
 
 ## Ziel
-Hier wird das Ziel deines Projekts detailliert beschrieben.
+Realisierung eines hochmodernen Software Defined Radio (SDR) Systems unter Einsatz der leistungsstarken PlutoSDR-Plattform, das sich auf die akkurate Analyse von Frequenzen sowie die ansprechende Visualisierung mittels Wasserfall-Darstellungen konzentriert.
 
 ## Hardware
    ### Allgemeine Beschreibung
-   Beschreibung der verwendeten Hardware-Komponenten.
+   Das verwendete Hardwaregerät ist das PlutoSDR, eine erschwingliche Lösung für Software-Defined-Radio- 
+   Anwendungen. Entwickelt von Analog Devices, bietet das PlutoSDR eine breite Palette von HF-Frequenzen und 
+   ermöglicht die bidirektionale Kommunikation über USB. Mit integrierter Antenne und flexibler       
+   Signalverarbeitung eignet es sich ideal für verschiedene Funkanwendungen, von der Frequenzanalyse bis hin 
+   zur drahtlosen Kommunikationsexperimente. Seine hohe Abtastrate und einfache Bedienung machen es zu einer 
+   beliebten Wahl für Bastler und Funkamateure.
    
    ### Technische Beschreibung
-   Technische Details und Spezifikationen der Hardware.
+   Dieses Gerät passiert auf einem AD9 AD9363-Chip, der eine breite Palette von HF-Frequenzen abdeckt. Diese 
+   liegen im Allgemeinen zwischen 70 MHz bis 6 GHz. Mit dem Host-Computer wird das Gerät über eine USB-      
+   Schnittstelle verbunden.  Es ermöglicht eine bidirektionale Kommunikation, auch als zwei Wege Kommunikation 
+   bekannt. 
+   Zudem ist er mit integrierten Antennen ausgestattet. Sowie einer flexiblen Signalverarbeitung mit einer 
+   maximalen Abtastrate von bis zu 52 MSPS.  Außerdem kann er sowohl als Empfänger und Sender agieren. 
 
+   Zusammenfassend lässt sich sagen, dass zu den Hauptmerkmalen ein breiter Frequenzbereich, eine hohe 
+   Abtastrate, flexible Signalverarbeitung, einfache Schnittstellen und integrierte Antennen sind. 
+   
+   ![Abbildung: PlutoSDR]("C:\Users\Flora\Desktop\adi-pluto-1.jpg")
+   
 ## Entwicklungen
    ### Verwendete Programme
    Eine Liste der verwendeten Programme für die Entwicklung des Projekts.
