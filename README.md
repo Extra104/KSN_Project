@@ -66,7 +66,7 @@ Nach Abschluss der Installation können Sie überprüfen, ob der Treiber ordnung
 Um GNU Radio zu installieren, besuchen Sie die [offizielle Website](https://wiki.gnuradio.org/index.php/InstallingGR) und laden Sie die passende Installationsdatei für Ihr Betriebssystem herunter. Führen Sie dann das Installationsprogramm aus und folgen Sie den Anweisungen. Stellen Sie sicher, dass alle erforderlichen Abhängigkeiten installiert sind. Öffnen Sie nach der Installation GNU Radio und konfigurieren Sie die Einstellungen nach Ihren Vorlieben. Überprüfen Sie abschließend, ob die Software ordnungsgemäß funktioniert, indem Sie eine Beispielanwendung ausführen oder ein neues Projekt erstellen und testen.
 
   ### Software
-   ![ABbilung ](./img/GNU.pdf)
+   ![ABbilung ](./img/WhatsApp Bild 2024-03-12 um 10.48.24_67ca832e.jpg)
 
 
   ### Resümee
