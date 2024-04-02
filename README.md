@@ -10,9 +10,10 @@
    - [Verwendete Programme](#verwendete-programme)
    - [Allgemeine Beschreibung](#allgemeine-beschreibung-1)
    - [Installation des Treibers](#installation-des-treibers)
-   - [Installation von GNU - Radio](#installation-von-gnu---radio)
+   - [Installation von GNU-Radio](#installation-von-gnu-radio)
 4. [Projekte](#projekte)
-5. [Resümee](#resümee)
+   - [GNU Radio Companion Flowgraph für PlutoSDR-Anwendung](#gnu-radio-companion-flowgraph-für-plutosdr-anwendung)
+6. [Resümee](#resümee)
 
 ---
 
@@ -48,7 +49,7 @@
 
 
 
-   ![ABbilung ](./img/adi-pluto-1.jpg)
+   ![Abildung 1](./img/adi-pluto-1.jpg)
    
 ## Entwicklungen
    ### Verwendete Programme
@@ -79,7 +80,7 @@
    Nach Abschluss der Installation kann überprüfen, ob der Treiber ordnungsgemäß installiert wurde, indem man den Geräte-Manager auf Ihrem Computer öffnen. Es sollte nach gesucht werde 
     Sie nach.
 
-   ### Installation von GNU - Radio
+   ### Installation von GNU-Radio
    Um GNU Radio zu installieren, besucht man die  Webseite [offizielle Website](https://wiki.gnuradio.org/index.php/InstallingGR) 
    und laden die passende Installationsdatei für das       
    eigene Betriebssystem herunter. Danach führt man dann das Installationsprogramm aus und folgt den Anweisungen. 
@@ -89,13 +90,12 @@
    die Software ordnungsgemäß funktioniert, indem maneine Beispielanwendung ausführt oder ein neues Projekt erstellen und testen.
 
   ## Projekte 
+   ### GNU Radio Companion Flowgraph für PlutoSDR-Anwendung
   
-   ![ABbilung ](./img/WhatsApp Bild 2024-03-12 um 10.48.24_67ca832e.jpg)
-
-
+  ![Abildung 1](./Bild_eins.jpg)
   ## Resümee
-Dieses Projekt bietet eine breite Palette an Lernmöglichkeiten. Es können grundlegende Kenntnisse in den Bereichen Software und Hardware erlangt werden.
-Der Schwerpunkt ist dabei auf der Frequenzanalyse und Signalverarbeitung. 
-Zudem können die Fähigkeiten durch Funkanwendungen und Signalverarbeitungsblöcke in GNU Radio erlangt werden. 
-
-Zusammenfassend lässt sich sagen, dass es ein spannendes Projekt ist. Welches durch seine gute Veranschaulichung heraussticht.  
+   Dieses Projekt bietet eine breite Palette an Lernmöglichkeiten. Es können grundlegende Kenntnisse in den Bereichen Software und Hardware erlangt werden.
+   Der Schwerpunkt ist dabei auf der Frequenzanalyse und Signalverarbeitung. 
+   Zudem können die Fähigkeiten durch Funkanwendungen und Signalverarbeitungsblöcke in GNU Radio erlangt werden. 
+    
+   Zusammenfassend lässt sich sagen, dass es ein spannendes Projekt ist. Welches durch seine gute Veranschaulichung heraussticht.  
