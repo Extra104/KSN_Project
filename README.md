@@ -47,8 +47,6 @@
 
    Darüber hinaus kann das PlutoSDR sowohl als Empfänger als auch als Sender fungieren, was es zu einem äußerst vielseitigen Gerät macht. Diese Funktion ermöglicht es dem Benutzer,         Signale zu empfangen und zu demodulieren oder eigene Signale zu generieren und zu übertragen, je nach den Anforderungen der Anwendung.
 
-
-
    ![Abildung 1](./img/adi-pluto-1.jpg)
    
 ## Entwicklungen
@@ -91,8 +89,10 @@
 
   ## Projekte 
    ### GNU Radio Companion Flowgraph für PlutoSDR-Anwendung
-  
-  ![Abildung 1](./Bild_eins.jpg)
+   ##### Aufbau 
+  ![Abbildung: Blöcke Zusammenschluss](./Bild_eins.jpg)
+  #### Im Betrieb 
+     ![Abbildung: Blöcke Zusammenschluss](./Bild_zwei.jpg)
   ## Resümee
    Dieses Projekt bietet eine breite Palette an Lernmöglichkeiten. Es können grundlegende Kenntnisse in den Bereichen Software und Hardware erlangt werden.
    Der Schwerpunkt ist dabei auf der Frequenzanalyse und Signalverarbeitung. 
