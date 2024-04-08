@@ -92,7 +92,21 @@
    ##### Aufbau 
   ![Abbildung: Blöcke Zusammenschluss](./Bild_eins.jpg)
   #### Im Betrieb 
-     ![Abbildung: Blöcke Zusammenschluss](./Bild_zwei.jpg)
+  ![Abbildung: Blöcke Zusammenschluss](./Bild_zwei.jpg)
+  Die erhabenen Gipfel dienen als markante Marker für die Frequenzen der Radiosendeanlagen und fungieren als unverzichtbare Referenzpunkte für Kommunikationstechniker, die sich mit der 
+  Feinabstimmung und Optimierung von Übertragungssystemen befassen. Ihre charakteristische Höhe und geografische Platzierung sind entscheidend bei der Ausrichtung von Antennen und der 
+ Konfiguration von Sendern, um eine präzise und zuverlässige Tonübertragung zu gewährleisten. Diese Spitzen repräsentieren nicht nur technologische Strukturen, sondern auch das 
+ Ergebnis akribischer Frequenzanalyse und Signaloptimierung, die es ermöglichen, eine breite Palette von Tonquellen mit hoher Klarheit und Integrität zu übertragen. Ihre majestätische 
+ Präsenz in der Landschaft ist ein Zeichen für die Symbiose zwischen menschlicher Innovation und natürlicher Topographie, wo die Übertragung von Klangwellen nahtlos in die umgebende 
+ Umwelt integriert wird.
+### FM Radio
+   ##### Aufbau 
+   ![Abbildung: Blöcke Zusammenschluss](./Bild_eins.jpg)
+   ####  Betrieb 
+   ![Abbildung: Blöcke Zusammenschluss](./Bild_eins.jpg)
+   Mit diesem Radio ist Antenne Steiermark gehört worden. Die Tonqualität ist sehr gut 
+   gewesen. 
+   
   ## Resümee
    Dieses Projekt bietet eine breite Palette an Lernmöglichkeiten. Es können grundlegende Kenntnisse in den Bereichen Software und Hardware erlangt werden.
    Der Schwerpunkt ist dabei auf der Frequenzanalyse und Signalverarbeitung. 
