@@ -90,22 +90,41 @@
   ## Projekte 
    ### GNU Radio Companion Flowgraph für PlutoSDR-Anwendung
    ##### Aufbau 
-  ![Abbildung: Blöcke Zusammenschluss](./Bild_eins.jpg)
-  #### Im Betrieb 
-  ![Abbildung: Blöcke Zusammenschluss](./Bild_zwei.jpg)
-  Die erhabenen Gipfel dienen als markante Marker für die Frequenzen der Radiosendeanlagen und fungieren als unverzichtbare Referenzpunkte für Kommunikationstechniker, die sich mit der 
+  ![Abbildung: 1](./Bild_eins.jpg)
+  #### Im Betrieb
+   Die erhabenen Gipfel dienen als markante Marker für die Frequenzen der Radiosendeanlagen und fungieren als unverzichtbare Referenzpunkte für Kommunikationstechniker, die sich mit der 
   Feinabstimmung und Optimierung von Übertragungssystemen befassen. Ihre charakteristische Höhe und geografische Platzierung sind entscheidend bei der Ausrichtung von Antennen und der 
  Konfiguration von Sendern, um eine präzise und zuverlässige Tonübertragung zu gewährleisten. Diese Spitzen repräsentieren nicht nur technologische Strukturen, sondern auch das 
  Ergebnis akribischer Frequenzanalyse und Signaloptimierung, die es ermöglichen, eine breite Palette von Tonquellen mit hoher Klarheit und Integrität zu übertragen. Ihre majestätische 
  Präsenz in der Landschaft ist ein Zeichen für die Symbiose zwischen menschlicher Innovation und natürlicher Topographie, wo die Übertragung von Klangwellen nahtlos in die umgebende 
  Umwelt integriert wird.
+  ![Abbildung: 2](./Bild_zwei.jpg)
+ 
 ### FM Radio
    ##### Aufbau 
-   ![Abbildung: Blöcke Zusammenschluss](./Bild_eins.jpg)
-   ####  Betrieb 
-   ![Abbildung: Blöcke Zusammenschluss](./Bild_eins.jpg)
-   Mit diesem Radio ist Antenne Steiermark gehört worden. Die Tonqualität ist sehr gut 
+   ![Abbildung: 3](./Bild_sechs.jpg)
+   ####  Betrieb
+    Mit diesem Radio ist Antenne Steiermark gehört worden. Die Tonqualität ist sehr gut 
    gewesen. 
+   ![Abbildung: 4](./Bild_sieben.jpg)
+  
+### Walki Talki 
+   ##### Aufbau   
+    ![Abbildung: 5](./Bild_sechs.jpg)
+   ####  Betrieb
+   Der erfolgreiche Aufbau einer Verbindung mittels eines Walkie-Talkies verdeutlicht   
+   die effektive Nutzung von drahtloser Kommunikationstechnologie und stellt einen    
+   wichtigen Meilenstein in der Arbeit eines Kommunikationstechnikers dar. Durch die 
+   Fähigkeit, die Sprache des anderen zu hören und zu verstehen, demonstriert das 
+   Walkie-Talkie nicht nur die Zuverlässigkeit seiner Übertragung, sondern auch die 
+   Wirksamkeit seiner Empfangs- und Entschlüsselungsfunktionen. Dieser erfolgreiche 
+   Kommunikationsprozess ist das Ergebnis einer sorgfältigen Konstruktion und 
+   Abstimmung der Geräte, bei der Faktoren wie Frequenzbereiche, Modulationsverfahren 
+   und Antennencharakteristiken berücksichtigt werden. 
+   Es ist zu sehen, wie in das Walki- Talki gesprochen wird. 
+   
+    ![Abbildung: 6](./Bild_sechs.jpg)
+    
    
   ## Resümee
    Dieses Projekt bietet eine breite Palette an Lernmöglichkeiten. Es können grundlegende Kenntnisse in den Bereichen Software und Hardware erlangt werden.
