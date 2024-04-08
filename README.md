@@ -104,13 +104,14 @@
    ##### Aufbau 
    ![Abbildung: 3](./Bild_sechs.jpg)
    ####  Betrieb
-    Mit diesem Radio ist Antenne Steiermark gehört worden. Die Tonqualität ist sehr gut 
-   gewesen. 
+   Der Empfang von Antenne Steiermark mittels des genannten Radiogeräts war positiv. Die Tonqualität wurde ist sehr gut . Während des Empfangszeitraums wurden keine Störungen, 
+   Interferenzen oder Signalverluste festgestellt. Die Sprach- und Musikübertragung war klar und deutlich.
+   Die Tonqualität ist hochwertig bewertet. Sowohl die Sprachübertragung der Moderatoren als auch die Musikwiedergabe waren klar und gut verständlich. Es wurden keine Verzerrungen oder    unerwünschte Artefakte wahrgenommen. Die Dynamik des Tons war ausgeglichen und angenehm für den Hörer.
    ![Abbildung: 4](./Bild_sieben.jpg)
   
 ### Walki Talki 
    ##### Aufbau   
-    ![Abbildung: 5](./Bild_sechs.jpg)
+   ![Abbildung: 5](./Bild_acht.jpg)
    ####  Betrieb
    Der erfolgreiche Aufbau einer Verbindung mittels eines Walkie-Talkies verdeutlicht   
    die effektive Nutzung von drahtloser Kommunikationstechnologie und stellt einen    
@@ -123,7 +124,7 @@
    und Antennencharakteristiken berücksichtigt werden. 
    Es ist zu sehen, wie in das Walki- Talki gesprochen wird. 
    
-    ![Abbildung: 6](./Bild_sechs.jpg)
+   ![Abbildung: 6](./Bild_neun.jpg)
     
    
   ## Resümee
