@@ -75,8 +75,7 @@
     Installationsprozess führt. Den Anweisungen sollte befolgt den Anweisungen des Assistenten, um den Treiber auf dem System zu installieren. Möglicherweise benötigen man 
     Administratorrechte, um den Treiber erfolgreich zu installieren.
    
-   Nach Abschluss der Installation kann überprüfen, ob der Treiber ordnungsgemäß installiert wurde, indem man den Geräte-Manager auf Ihrem Computer öffnen. Es sollte nach gesucht werde 
-    Sie nach.
+   Nach Abschluss der Installation kann überprüfen, ob der Treiber ordnungsgemäß installiert wurde, indem man den Geräte-Manager auf Ihrem Computer öffnen. 
 
    ### Installation von GNU-Radio
    Um GNU Radio zu installieren, besucht man die  Webseite [offizielle Website](https://wiki.gnuradio.org/index.php/InstallingGR) 
